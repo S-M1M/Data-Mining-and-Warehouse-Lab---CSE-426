@@ -13,7 +13,6 @@ The domain of focus is **Job Postings**, utilizing a comprehensive dataset of re
 * **Modern Web Interface:** A fully responsive, Google-inspired GUI built with Streamlit, featuring highlighted search keywords and clean snippet generation.
 
 ## 📸 Application Screenshots
-*(Add your screenshots here before pushing to GitHub)*
 * <img width="993" height="383" alt="image" src="https://github.com/user-attachments/assets/c9c57bfa-822e-4b06-8148-ba604861fed6" />
 
 * <img width="1013" height="431" alt="image" src="https://github.com/user-attachments/assets/4c87e58f-d404-444f-8c3f-8a833423dfb3" />
